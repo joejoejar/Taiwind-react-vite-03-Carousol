@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 
 # React + Vite + Tailwind CSS
 
@@ -52,8 +50,6 @@ License
 - Add a `LICENSE` file to declare an open-source license (e.g., MIT).
 
 Thanks for using this starter — happy hacking!
-
-=======
 # React-vite-Tailwind-CSS
 Developing portfolio landing page 
 
@@ -63,4 +59,3 @@ Using react for humberger menu items and profile setting.
 IDE : cursor IDE for effective CI and CD development by utilizing AI features. 
 
 
->>>>>>> origin/main
