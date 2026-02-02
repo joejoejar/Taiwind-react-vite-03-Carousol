@@ -9,6 +9,8 @@ Features
 - Tailwind CSS configured via `tailwind.config.js`
 - Example components under `src/components/`
 
+![Carousel Screenshot](screenshoot/screenshot.png)
+
 Prerequisites
 - Node.js 16+ (LTS) and npm or yarn
 
