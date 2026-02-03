@@ -59,5 +59,6 @@ This page was created to use Tailwind CSS for layout and repidly build morden we
 Using react for humberger menu items and profile setting. 
 
 IDE : cursor IDE for effective CI and CD development by utilizing AI features. 
+IDE : VScode AI Agent
 
 
